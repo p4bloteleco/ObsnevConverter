@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObsnevConverter", "ObsnevConverter\ObsnevConverter.csproj", "{65339F38-13CF-44D3-9C1B-E667077C2459}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursos", "Recursos", "{47DF7DD8-1E1E-4903-9A17-86724DACE74E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\logoobsnev.ico = ..\..\..\Downloads\logoobsnev.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65339F38-13CF-44D3-9C1B-E667077C2459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65339F38-13CF-44D3-9C1B-E667077C2459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65339F38-13CF-44D3-9C1B-E667077C2459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65339F38-13CF-44D3-9C1B-E667077C2459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08CFA9B4-92E6-4B51-845D-8623CCDABD99}
+	EndGlobalSection
+EndGlobal
